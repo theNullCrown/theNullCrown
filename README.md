@@ -4,9 +4,9 @@ I am a mathematician and full stack developer based in San Luis Obispo.
 
 ## Interests
 - Computational Geometry and Topological Data Analysis
-- Functional Programming
-- Monitors and TVs
-- Full stack development
+- Functional programming
+- Monitors, TVs and Laptops
+- Full-stack development
 
 ## Languages and Tools
 
