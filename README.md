@@ -3,10 +3,11 @@
 I am a mathematician and full stack developer based in San Luis Obispo.
 
 ## Interests
-- Computational Geometry and Topological Data Analysis
+- Computational Geometry
 - Functional programming
 - Monitors, TVs and Laptops
-- Full-stack development
+- Full-stack web development
+- Mobile application development
 
 ## Languages and Tools
 
