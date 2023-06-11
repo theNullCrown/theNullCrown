@@ -8,6 +8,7 @@ I am a mathematician and full stack developer based in San Luis Obispo.
 - Functional programming
 - Monitors, TVs and Laptops
 - Full-stack web development
+- Fine-tuning classical ML models and LLMs
 
 ## Languages and Tools
 
